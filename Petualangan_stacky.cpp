@@ -10,3 +10,11 @@ struct node{
 void push(int data, stack* x){
     
 }
+
+int main();
+int n;
+cin>>"masukan n ">>n;
+int i;
+for(i = 0 ; i <= n ; i++){
+
+}
